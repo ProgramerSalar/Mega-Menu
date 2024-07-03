@@ -6,8 +6,8 @@ const App = () => {
   
 
   return (
-    <HamMenu/>
-    // <ReloadOnResize/>
+    // <HamMenu/>
+    <ReloadOnResize/>
   
   );
 };
